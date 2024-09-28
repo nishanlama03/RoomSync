@@ -8,7 +8,6 @@ Features
     Task Management: Easily assign, track, and complete household chores. Users can set deadlines and receive notifications for upcoming or overdue tasks.
     User-friendly Interface: Designed with ease of use in mind, the app provides a clean and organized layout for smooth navigation and functionality.
     Real-time Updates: Changes to tasks or payments are updated in real-time, ensuring all roommates are on the same page.
-    Analytics & Insights: Get a detailed view of expenses, tasks completed, and contributions of each roommate.
 
 Figma Design [https://shorturl.at/zNHMZ]
 
