@@ -1,6 +1,6 @@
 Mobile App Dev - App Brainstorming
 ===
-
+## Chosen: RoomSync 
 ## Favorite Existing Apps - List
 1. Instagram
 1. Splitwize
@@ -106,3 +106,5 @@ Mobile App Dev - App Brainstorming
     - **Habit**: Habit-forming during the apartment search period. Daily log-ins to view matches, chat with potential roommates, and check for new listings.
 
     - **Scope**: V1 could match based on lifestyle quiz + housing listings. V2 could add chat, document sharing (lease, utilities), and safety verifications. V3 could support roommate ratings, housing guides, and integration with campus housing. V4 might include partnerships with housing platforms or offer rent-splitting features like Splitwise.
+  
+
