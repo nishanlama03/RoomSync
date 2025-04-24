@@ -9,6 +9,4 @@ Features
     User-friendly Interface: Designed with ease of use in mind, the app provides a clean and organized layout for smooth navigation and functionality.
     Real-time Updates: Changes to tasks or payments are updated in real-time, ensuring all roommates are on the same page.
 
-Figma Design [https://shorturl.at/zNHMZ]
-
-The app's design was crafted using Figma. The Figma design outlines the core user interface, color schemes, and visual hierarchy used to enhance user experience.
+Figma Design [https://www.figma.com/design/wpFXThhEExaO7LlMMliyTu/Roommate-Home-App-Prototype?node-id=0-1&t=9kFjoqYSVx1UcLQ5-1]
